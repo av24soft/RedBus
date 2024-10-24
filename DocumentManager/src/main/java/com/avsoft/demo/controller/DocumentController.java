@@ -25,6 +25,8 @@ public class DocumentController {
 		documentService.readData();
 		documentService.processData();
 		documentService.printData();
+		
+		System.out.println("hiiiiiiiiii");
 		return "done";
 		
 	}
