@@ -8,6 +8,8 @@ public class DocumentManagerApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(DocumentManagerApplication.class, args);
+
+		
 	}
 
 }
